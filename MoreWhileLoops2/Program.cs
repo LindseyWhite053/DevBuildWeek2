@@ -1,4 +1,6 @@
-﻿
+﻿string[] names = { "Abdul Amin", "Barbara Baker", "Cherine Cooper", "Douglas Dickerson", "Emily Emerson" };
+int[] grades = { 95, 98, 85, 80, 70 };
+
 
 bool okay = false;
 int num = 0;
