@@ -44,6 +44,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice1", "StringPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDemo", "StackDemo\StackDemo.csproj", "{2BC45930-2FEE-4F5A-B340-0B373AFDC733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreePlay", "FreePlay\FreePlay.csproj", "{029790D4-F8E0-4791-9AC5-D75697547EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalExercises", "AdditionalExercises\AdditionalExercises.csproj", "{93F2BB70-1A29-4148-94D5-00C126BB578F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +126,14 @@ Global
 		{2BC45930-2FEE-4F5A-B340-0B373AFDC733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC45930-2FEE-4F5A-B340-0B373AFDC733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC45930-2FEE-4F5A-B340-0B373AFDC733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029790D4-F8E0-4791-9AC5-D75697547EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029790D4-F8E0-4791-9AC5-D75697547EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029790D4-F8E0-4791-9AC5-D75697547EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029790D4-F8E0-4791-9AC5-D75697547EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F2BB70-1A29-4148-94D5-00C126BB578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F2BB70-1A29-4148-94D5-00C126BB578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F2BB70-1A29-4148-94D5-00C126BB578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F2BB70-1A29-4148-94D5-00C126BB578F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
